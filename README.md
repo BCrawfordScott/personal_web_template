@@ -4,6 +4,8 @@
 
 #### COM+SHIFT+F client_name
 
+Change the following naming information
+
 * client_name.jsx including internals
 
 * application.html.erb head-data
